@@ -1,6 +1,6 @@
 FROM openjdk:22-oracle
 
-WORKDIR /app2
+WORKDIR /app
 
 COPY target/gestvet-0.0.1-SNAPSHOT.jar app.jar
 COPY Wallet_BHZNK7S7IGCPMYA8 /app/oracle_wallet

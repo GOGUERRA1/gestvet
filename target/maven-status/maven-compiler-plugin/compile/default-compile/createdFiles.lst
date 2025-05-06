@@ -1,0 +1,7 @@
+com/example/gestvet/service/EventoService.class
+com/example/gestvet/GestvetApplication.class
+com/example/gestvet/model/Evento.class
+com/example/gestvet/repository/ParticipanteRepository.class
+com/example/gestvet/repository/EventoRepository.class
+com/example/gestvet/controller/EventoController.class
+com/example/gestvet/model/Participante.class

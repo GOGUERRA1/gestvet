@@ -1,0 +1,9 @@
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/GestvetApplication.java
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/controller/EventoController.java
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/controller/ParticipanteController.java
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/model/Evento.java
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/model/Participante.java
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/repository/EventoRepository.java
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/repository/ParticipanteRepository.java
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/service/EventoService.java
+/Users/goguerrag/fullstack1/gestvet/src/main/java/com/example/gestvet/service/ParticipanteService.java
